@@ -7,7 +7,7 @@ import android.widget.Button;
 import android.widget.TextView;
 
 import java.util.ArrayList;
-
+//calculadora basica
 public class firstActivity extends AppCompatActivity {
     //creacion de las variables
     private TextView lblEntrada;
